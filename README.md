@@ -1,10 +1,7 @@
+![mehedi_hasan_banner](https://i.postimg.cc/63cmXvND/mehedi-hasan-banner.png)
+<h1 align="center">Hello👋, I'm Mehedi Hasan</h1>
 
-# Hello, I'm Full-Stack Web Developer
-
-
-## 🚀 About Me
-As a Full Stack Web Developer, I have extensive experience developing web applications from concept to deployment. With a strong background in both front-end and back-end development, I possess a diverse set of technical skills that enable me to deliver robust, scalable, and user-friendly web solutions.  I am also proficient in project management methodologies, agile development practices, and effective communication skills that enable me to work collaboratively in a team environment. 
-
+<p align="center">As a Full Stack Web Developer, I have extensive experience developing web applications from concept to deployment. With a strong background in both front-end and back-end development, I possess a diverse set of technical skills that enable me to deliver robust, scalable, and user-friendly web solutions.  I am also proficient in project management methodologies, agile development practices, and effective communication skills that enable me to work collaboratively in a team environment. </p>
 
 ## 💪 My Skill Set
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -36,5 +33,3 @@ As a Full Stack Web Developer, I have extensive experience developing web applic
 [![facebook](https://img.shields.io/badge/facebook-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/MehediHasan5131/)
 
 <img src="https://komarev.com/ghpvc/?username=MehediHasan95&&style=flat-square" />
-
-
