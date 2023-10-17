@@ -1,5 +1,5 @@
-![mehedi_hasan_banner](https://i.postimg.cc/63cmXvND/mehedi-hasan-banner.png)
-<h1 align="center">Hello👋, I'm Mehedi Hasan</h1>
+![mehedi_hasan_banner](https://i.postimg.cc/d1NTj63s/mehedihasan.png)
+<h1 align="center">Hey there👋, I'm Mehedi Hasan</h1>
 
 <p align="center">As a Full Stack Web Developer, I have extensive experience developing web applications from concept to deployment. With a strong background in both front-end and back-end development, I possess a diverse set of technical skills that enable me to deliver robust, scalable, and user-friendly web solutions.  I am also proficient in project management methodologies, agile development practices, and effective communication skills that enable me to work collaboratively in a team environment. </p>
 
